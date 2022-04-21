@@ -63,6 +63,32 @@ ul{
 	list-style-type: none; ;
 }
 .list{
-	margin: 8%;
+	margin: 6%;
+}
+.lista-maggiore{
+ font-size: 25px;
+ 
+}
+.lista-minore{
+	font-size: 20px;
+	margin-top: 15px;
 }
 
+
+
+.text-tag{
+	font-size: 15px;
+	color: white;
+	text-align: center;
+	background-color: #47adf1;
+	padding: 8px;
+	border-radius: 20px;
+
+}
+
+.ok{
+	border-radius: 100%;
+	border: 1px solid green;
+	color:green;
+	padding: 1px;
+}
