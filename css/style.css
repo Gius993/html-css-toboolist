@@ -3,3 +3,57 @@
 	padding: 0;
 	box-sizing: border-box;
 }
+
+body{
+	margin: 10px;
+	background-color: #f6f8f9;
+}
+header{
+	background-color: white;
+	margin-bottom: 40px;
+}
+
+.titolo{
+	margin: 10px;
+	
+    
+}
+
+.title{
+	display: inline;
+	font-size: 50px;
+	
+}
+
+.container{
+background-color: white;
+width: 850px;
+height: 780px;
+margin: auto;}
+
+.bottone-blu{
+	display: inline-block;
+	border-style: solid;
+	border-radius: 5px;
+	border-width: 1px;
+	border-color: #47adf1;
+	background-color: #47adf1;
+	padding: 5px;
+	color: white;
+}
+.bottone-bianco{
+	display: inline-block;
+	border-style: solid;
+	border-radius: 5px;
+	border-width: 1px;
+	padding: 5px;
+	background-color: white;
+	border-color: lightgrey;
+	color: lightgray;
+}
+.bottoni{
+	padding: 35px;
+}
+hr{
+	border-color: lightgray;
+}
