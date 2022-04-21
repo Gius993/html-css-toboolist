@@ -22,6 +22,7 @@ header{
 .title{
 	display: inline;
 	font-size: 50px;
+	vertical-align: text-bottom;
 	
 }
 
@@ -55,5 +56,13 @@ margin: auto;}
 	padding: 35px;
 }
 hr{
-	border-color: lightgray;
+	border-color: #f6f8f9;
+	border-style: solid;
 }
+ul{
+	list-style-type: none; ;
+}
+.list{
+	margin: 8%;
+}
+
