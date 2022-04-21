@@ -30,7 +30,9 @@ header{
 background-color: white;
 width: 850px;
 height: 780px;
+padding: 5px;
 margin: auto;}
+
 
 .bottone-blu{
 	display: inline-block;
@@ -64,15 +66,22 @@ ul{
 }
 .list{
 	margin: 6%;
+	
 }
 .lista-maggiore{
  font-size: 25px;
+ margin-top: 50px;
+ 
  
 }
 .lista-minore{
 	font-size: 20px;
 	margin-top: 15px;
+	content: 10px;
 }
+
+	
+	
 
 
 
@@ -83,6 +92,31 @@ ul{
 	background-color: #47adf1;
 	padding: 8px;
 	border-radius: 20px;
+}
+.text-tag-v{
+	font-size: 15px;
+	color: white;
+	text-align: center;
+	background-color: #9947f1;
+	padding: 8px;
+	border-radius: 20px;
+}
+.text-tag-g{
+	font-size: 15px;
+	color: white;
+	text-align: center;
+	background-color: #1e882b;
+	padding: 8px;
+	border-radius: 20px;
+
+}
+.text-tag-o{
+	font-size: 15px;
+	color: white;
+	text-align: center;
+	background-color: #d28a0d;
+	padding: 8px;
+	border-radius: 20px;
 
 }
 
@@ -91,4 +125,8 @@ ul{
 	border: 1px solid green;
 	color:green;
 	padding: 1px;
+}
+.testo{
+	margin-top: 20px;
+	font-weight: 578;
 }
